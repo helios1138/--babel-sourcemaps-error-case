@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "babel-cli": "^6.2.0",
+    "typescript": "^1.6.2"
+  }
+}
